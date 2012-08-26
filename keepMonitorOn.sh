@@ -6,7 +6,6 @@
 
 while :;
 do
-	xte "mousermove 1 0"
-	xte "mousermove -1 0"
+	xte "mousermove 1 0" "mousermove -1 0"
 	sleep 60
 done;
